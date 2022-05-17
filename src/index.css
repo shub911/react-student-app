@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('./background.png');
+  overflow-x: hidden;
+}
+h2 {
+  text-align: center;
+  font-weight: lighter;
+  margin: 0
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.paper {
+  text-align: center;
+  margin: 0 auto;
+  padding: 7px 5px;
+}
+.App {
+  margin: 25px auto;
+  max-width: 80%;
+  height: auto;
+}
+.Metrics {
+  margin: 1% auto;
+  padding: 1px;
+}
+.Metrics ul {
+  margin: 10px 0;
+  list-style: none;
+}
+.Metrics ul li {
+  margin: 15px 0;
+} 
+.dataEntry {
+  margin-top: 3%
+}
